@@ -1,0 +1,17 @@
+<resources>
+
+    // APP
+    <string name="app_name">My App</string>
+
+    // MAIN ACTIVITY
+    <string name="edit_text_name">Nombre</string>
+    <string name="edit_text_password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="view_txt_nombres">Seleccionar alumnos</string>
+
+    //INDEX ACTIVITY
+    <string name="btn_alumnos">Alumnos</string>
+    <string name="btn_profesores">Profesores</string>
+    <string name="btn_cursos">Cursos</string>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067851066089",
+    "firebase_url": "https://eva-co.firebaseio.com",
+    "project_id": "eva-co",
+    "storage_bucket": "eva-co.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067851066089:android:8ccb9f342255d275",
+        "android_client_info": {
+          "package_name": "com.pmi.eva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067851066089-0j0486br05as92dr1ooo4pi6kjrmeuhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdflII1mQPWIUU-lw1o7v6ESmlIIdxqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
